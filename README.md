@@ -9,19 +9,19 @@ ReVanced Extended Patches.
 
 | 💊 Patch | 📜 Description | 🏹 Target Version |
 |:--------:|:--------------:|:-----------------:|
-| `Add splash animation` | Adds old style splash animation. | 18.25.40 ~ 18.45.43 |
+| `Add splash animation` | Adds old style splash aniimation. | 18.25.40 ~ 18.45.43 |
 | `Alternative thumbnails` | Adds options to replace video thumbnails using the DeArrow API or image captures from the video. | 18.25.40 ~ 18.45.43 |
 | `Ambient mode switch` | Bypass the restrictions of ambient mode or disable it completely. | 18.25.40 ~ 18.45.43 |
 | `Append time stamps information` | Add the current video quality or playback speed in brackets next to the current time. | 18.25.40 ~ 18.45.43 |
 | `Change player flyout panel toggles` | Adds an option to use text toggles instead of switch toggles within the additional settings menu. | 18.25.40 ~ 18.45.43 |
 | `Change start page` | Changes the start page of the app. | 18.25.40 ~ 18.45.43 |
 | `Custom branding icon YouTube` | Change the YouTube launcher icon to the icon specified in options.json. | 18.25.40 ~ 18.45.43 |
-| `Custom branding name YouTube` | Rename the YouTube app to the name specified in options.json. | 18.25.40 ~ 18.45.43 |
+| `Custom branding name YouTube` | Rename the YouTube appp to the name specified in options.json. | 18.25.40 ~ 18.45.43 |
 | `Custom double tap length` | Add 'double-tap to seek' value. | 18.25.40 ~ 18.45.43 |
 | `Custom package name` | Changes the package name for the non-root build of YouTube and YouTube Music to the name specified in options.json. | all |
 | `Custom playback speed` | Adds more playback speed options. | 18.25.40 ~ 18.45.43 |
 | `Custom player overlay opacity` | Change the opacity of the player background, when player controls are visible. | 18.25.40 ~ 18.45.43 |
-| `Custom seekbar color` | Change seekbar color in video player and video thumbnails. | 18.25.40 ~ 18.45.43 |
+| `Custom seekbar color` | Change seekbar color in videeo player and video thumbnails. | 18.25.40 ~ 18.45.43 |
 | `Default playback speed` | Adds ability to set default playback speed settings. | 18.25.40 ~ 18.45.43 |
 | `Default video quality` | Adds ability to set default video quality settings. | 18.25.40 ~ 18.45.43 |
 | `Disable HDR video` | Disable HDR video. | 18.25.40 ~ 18.45.43 |
